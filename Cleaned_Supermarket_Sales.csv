@@ -1,0 +1,42 @@
+Record_No,Invoice_ID,Date,Product_ID,Product,Category,Quantity,Unit_Price_INR,Payment_Method,City,Total_Amount_INR
+1,INV001,2026-10-01,P001,Milk,Dairy,2.0,28.0,Cash,Hyderabad,56.0
+2,INV002,2026-10-01,P002,Bread,Bakery,1.0,35.0,Upi,Warangal,35.0
+3,INV003,2026-10-02,P003,Rice 5kg,Grocery,1.0,320.0,Card,Hyderabad,320.0
+4,INV004,2026-10-02,P004,Eggs,Dairy,2.0,7.0,Cash,Warangal,14.0
+5,INV005,2026-10-03,P005,Soap,Personal Care,3.0,42.0,Upi,Hyderabad,126.0
+6,INV006,,P006,Shampoo,Personal Care,1.0,110.0,Card,Hanamkonda,110.0
+7,INV007,2026-10-04,P007,Apples,Fruits,2.0,90.0,Upi,Hyderabad,180.0
+8,INV008,2026-10-04,P008,Cooking Oil,Grocery,1.0,145.0,Cash,Warangal,145.0
+9,INV009,2026-10-05,P009,Biscuits,Snacks,5.0,10.0,Upi,Hyderabad,50.0
+10,INV010,2026-10-05,P010,Toothpaste,Personal Care,2.0,55.0,Card,Hanamkonda,110.0
+11,INV011,2026-10-06,P011,Tomatoes,Vegetables,3.0,30.0,Cash,Warangal,90.0
+12,INV012,2026-10-06,P012,Tea Powder,Grocery,1.0,180.0,Upi,Hyderabad,180.0
+13,INV013,2026-10-07,P013,Butter,Dairy,2.0,58.0,Card,Hanamkonda,116.0
+14,INV014,2026-10-07,P014,Chips,Snacks,4.0,20.0,Cash,Warangal,80.0
+15,INV015,2026-10-08,P015,Orange Juice,Beverages,2.0,75.0,Upi,Hyderabad,150.0
+16,INV016,2026-10-08,P016,Onions,Vegetables,2.0,35.0,Cash,Warangal,70.0
+17,INV017,2026-10-09,P017,Detergent,Household,1.0,125.0,Card,Hanamkonda,125.0
+18,INV018,2026-10-09,P018,Curd,Dairy,2.0,30.0,Upi,Hyderabad,60.0
+19,INV019,2026-10-10,P019,Coffee,Beverages,1.0,210.0,Cash,Warangal,210.0
+20,INV020,2026-10-10,P020,Bananas,Fruits,6.0,8.0,Upi,Hyderabad,48.0
+21,INV021,2026-10-11,P021,Flour,Grocery,,48.0,Cash,Hanamkonda,
+22,INV022,2026-10-11,P022,Cheese,Dairy,1.0,,Card,Warangal,
+23,INV023,2026-10-12,P023,Detergent,Household,1.0,125.0,Upi,Hyderabad,125.0
+24,INV024,2026-10-12,P024,Grapes,Fruits,2.0,85.0,Upi,Warangal,170.0
+25,INV025,2026-10-13,P025,Noodles,Snacks,4.0,15.0,Cash,Hanamkonda,60.0
+26,INV026,2026-10-13,P026,Milk,Dairy,2.0,28.0,Upi,Hyderabad,56.0
+27,INV027,2026-10-14,P027,Cucumber,Vegetables,3.0,25.0,Card,Warangal,75.0
+28,INV028,2026-10-14,P028,Handwash,Personal Care,1.0,65.0,Upi,Hanamkonda,65.0
+29,INV029,2026-10-15,P029,Juice,Beverages,-1.0,75.0,Cash,Hyderabad,-75.0
+30,INV030,2026-10-15,P030,Rice 5kg,Grocery,1.0,320.0,Upi,Warangal,320.0
+31,INV031,2026-10-16,P031,Bread,Bakery,2.0,35.0,Card,Hyderabad,70.0
+32,INV032,2026-10-16,P032,Yogurt,Dairy,2.0,32.0,Upi,Hanamkonda,64.0
+33,INV033,2026-10-17,P033,Apples,Fruits,1.0,90.0,Cash,Warangal,90.0
+34,INV034,2026-10-17,P034,Soap,Personal Care,2.0,42.0,Upi,Hyderabad,84.0
+35,INV035,2026-10-18,P035,Biscuits,Snacks,3.0,10.0,Cash,Hanamkonda,30.0
+36,INV036,2026-10-18,P036,Tomatoes,Vegetables,2.0,30.0,Upi,Warangal,60.0
+37,INV037,2026-10-19,P037,Tea Powder,Grocery,1.0,180.0,Card,Hyderabad,180.0
+38,INV038,2026-10-19,P038,Butter,Dairy,1.0,58.0,Upi,Hanamkonda,58.0
+39,INV039,2026-10-20,P039,Chips,Snacks,2.0,20.0,Cash,Warangal,40.0
+40,INV040,2026-10-20,P040,Onions,Vegetables,4.0,35.0,Upi,Hyderabad,140.0
+41,INV040,2026-10-21,P041,Green Chilli,Vegetables,2.0,18.0,Upi,Warangal,36.0
